@@ -18,7 +18,7 @@ public class Atm {
 
 
     public static void main(String[] args) {
-
+        System.out.println("ATm class");
    //     final static String kartNo="1234567890123456";
 //final yazinca birdaha degisiklik yapilamaz.
       //  static Scanner scan= new Scanner(System.in);
